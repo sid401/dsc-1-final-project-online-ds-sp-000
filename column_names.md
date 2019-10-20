@@ -8,7 +8,7 @@
 * **sqft_lotsquare** -  footage of the lot
 * **floorsTotal** -  floors (levels) in house
 * **waterfront** - House which has a view to a waterfront
-* **view** - Has been viewed
+* **view** - _how good the view is_
 * **condition** - How good the condition is ( Overall )
 * **grade** - overall grade given to the housing unit, based on King County grading system
 * **sqft_above** - square footage of house apart from basement
